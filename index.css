@@ -4,13 +4,11 @@
     box-sizing: border-box;
     font-family: 'poppins',sans-serif;
 }
-
 body {
     color: #ededed;
     background: url(./OIP.jpeg) no-repeat center center fixed;
     background-size: cover;
 }
-
 .header {
     position: fixed;
     top: 0;
@@ -23,7 +21,6 @@ body {
     align-items: center;
     z-index: 100;
 }
-
 .logo {
     position: relative;
     font-size: 25px;
@@ -34,12 +31,10 @@ body {
     opacity: 0;
     animation: slideRight 1s ease forwards;
 }
-
 .navbar {
     display: flex;
     align-items: center;
 }
-
 .menu-icon {
     display: none;
     font-size: 24px;
